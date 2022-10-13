@@ -1,4 +1,4 @@
-# Search clinet using Nextjs, Tailwind Css
+# Search engine clinet using Nextjs, Tailwind Css
 ### Search app like google search but only client using nextjs and dummy data
 
 ## Feature
