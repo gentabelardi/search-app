@@ -3,6 +3,9 @@
 
 ## Feature
 - Search
+- Suggestion search
+- Auto Suggestion select
+- Show image
 
 ## Tech
 - Next js
